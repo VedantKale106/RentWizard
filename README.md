@@ -1,4 +1,5 @@
 # RentWizard
+Welcome to RentWizard, your trusted companion for navigating the dynamic rental market in Pune with ease and precision. Whether you're a newcomer to the city or a seasoned resident seeking a new place to call home, RentWizard is here to empower you with accurate rent predictions tailored specifically to the Pune area.
 
 # Here are some ScreenShots
 ![1](https://github.com/VedantKale106/RentWizard/assets/159442447/432e722c-f4a1-4843-a074-b5d11f51ed2b)
